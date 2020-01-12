@@ -3,7 +3,6 @@
 """
 Created on Mon Feb 25 14:56:41 2019
 
-@author: sumavenugopal
 """
 import numpy as np
 from sklearn.cluster import KMeans
